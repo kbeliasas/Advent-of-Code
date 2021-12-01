@@ -1,8 +1,8 @@
-package com.advetofcode.main.days;
+package com.advetofcode.main.year2020.days;
 
-import static com.advetofcode.main.days.HandheldHalting.Instructions.ACCUMULATOR;
-import static com.advetofcode.main.days.HandheldHalting.Instructions.JUMP;
-import static com.advetofcode.main.days.HandheldHalting.Instructions.NO_OPERATION;
+import static com.advetofcode.main.year2020.days.HandheldHalting.Instructions.ACCUMULATOR;
+import static com.advetofcode.main.year2020.days.HandheldHalting.Instructions.JUMP;
+import static com.advetofcode.main.year2020.days.HandheldHalting.Instructions.NO_OPERATION;
 
 import java.io.IOException;
 import java.util.Comparator;

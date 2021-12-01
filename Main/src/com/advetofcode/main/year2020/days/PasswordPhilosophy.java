@@ -1,4 +1,4 @@
-package com.advetofcode.main.days;
+package com.advetofcode.main.year2020.days;
 
 import java.io.IOException;
 import java.util.ArrayList;
